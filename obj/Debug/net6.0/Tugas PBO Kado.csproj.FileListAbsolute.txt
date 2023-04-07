@@ -1,0 +1,15 @@
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.csproj.AssemblyReference.cache
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.AssemblyInfoInputs.cache
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.AssemblyInfo.cs
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.csproj.CoreCompileInputs.cache
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\bin\Debug\net6.0\Tugas PBO Kado.exe
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\bin\Debug\net6.0\Tugas PBO Kado.deps.json
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\bin\Debug\net6.0\Tugas PBO Kado.runtimeconfig.json
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\bin\Debug\net6.0\Tugas PBO Kado.dll
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\bin\Debug\net6.0\Tugas PBO Kado.pdb
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.dll
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\refint\Tugas PBO Kado.dll
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.pdb
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\Tugas PBO Kado.genruntimeconfig.cache
+C:\Users\daffa\Desktop\Program\Tugas PBO Kado\obj\Debug\net6.0\ref\Tugas PBO Kado.dll
